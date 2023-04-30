@@ -11,4 +11,5 @@ I ran into a number of issues during the course of my project that compounded to
    * Add a hole for the speaker (so it is actually audible).
  * Order boards with holes in them and more labels (to fit the battery and clean things up).
 
+[Here is a link to my website with photos and more details about the box.](https://www.andrew-mattson.com/home/projects/programming/rfid-locked-box)
 [Here is a video of my box working.](https://youtube.com/shorts/A47708UI6S4?feature=share)
